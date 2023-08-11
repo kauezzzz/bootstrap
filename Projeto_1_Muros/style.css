@@ -75,7 +75,7 @@ a, i {
 
 .main-image {
     height: 400px;
-    background-image: url('../img/g_1.jpg');
+    background-image: url('img/g_1.jpg');
     margin-bottom: 30px;
     position: relative;
 }
@@ -91,23 +91,23 @@ a, i {
 /* Galeria de imagens */
 
 #img2 {
-    background-image: url(../img/g_2.jpg);
+    background-image: url(img/g_2.jpg);
 }
 
 #img3 {
-    background-image: url(../img/g_3.jpg);
+    background-image: url(img/g_3.jpg);
 }
 
 #img4 {
-    background-image: url(../img/g_4.jpg);
+    background-image: url(img/g_4.jpg);
 }
 
 #img5 {
-    background-image: url(../img/g_5.jpg);
+    background-image: url(img/g_5.jpg);
 }
 
 #img6 {
-    background-image: url(../img/g_6.jpg);
+    background-image: url(img/g_6.jpg);
 }
 
 #galery-container h1 {
