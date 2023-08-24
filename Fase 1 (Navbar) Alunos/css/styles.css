@@ -1,0 +1,33 @@
+* {
+    font-family: 'Monserrat', sans-serif;
+}
+
+body {
+    background-color: #252525;
+    color: #fff;
+}
+
+.primary-bg-color {
+    background-color: #252525;
+}
+
+.destaque {
+    background-color: #0D0D0D;
+}
+
+.secndary-bg-color {
+    background-color: #976DF2;
+}
+
+.light-bg-color {
+    background-color: #FCF5EB;
+}
+
+.dark-bg-color {
+    background-color: #0D0D0D;
+}
+
+
+.primary-color {
+    color: #976DF2;
+}
